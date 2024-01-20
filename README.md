@@ -1,3 +1,3 @@
-this project is built by Arian_shahbazian.
-/
-mips single cycle processor for executing Fibonacci sequence.
+you must add instruction.text file into your project carefully. without that file, project won't execute correctly.
+
+![MIPS-basic-singlecycle](https://github.com/Arianshahbaziyan/singlecycle_MIPS/assets/81573954/8cf23aaf-c273-4c05-81b8-cce7a1c9cc04)
